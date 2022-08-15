@@ -1,7 +1,4 @@
-/* ---------------------------------------------- */
-/*            CODE EXPLAINED TUTORIALS            */
-/*         www.youtube.com/CodeExplained          */
-/* ---------------------------------------------- */
+
 
 // SELECT ALL ELEMENTS
 const country_name_element = document.querySelector(".country .name");
